@@ -15,7 +15,7 @@ Add a stateful widget
 Create an infinite scrolling Listview
 ![Screenshot first_flutter_app](images/04.png)
 
-## Part 1
+## Part 2
 Add icons to the list
 ![Screenshot first_flutter_app](images/05.png)
 
