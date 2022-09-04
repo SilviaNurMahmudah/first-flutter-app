@@ -1,16 +1,31 @@
 # first_flutter_app
 
-A new Flutter project.
+SILVIA NUR MAHMUDAH
 
-## Getting Started
+## Part 1
+Create the starter Flutter app
+![Screenshot first_flutter_app](images/01.png)
 
-This project is a starting point for a Flutter application.
+Use an external package
+![Screenshot first_flutter_app](images/02.png)
 
-A few resources to get you started if this is your first Flutter project:
+Add a stateful widget
+![Screenshot first_flutter_app](images/03.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Create an infinite scrolling Listview
+![Screenshot first_flutter_app](images/04.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Part 1
+Add icons to the list
+![Screenshot first_flutter_app](images/05.png)
+
+Add interactivity
+![Screenshot first_flutter_app](images/06.png)
+
+Navigate to a new screen
+![Screenshot first_flutter_app](images/07.png)
+
+![Screenshot first_flutter_app](images/08.png)
+
+Change the UI using themes
+![Screenshot first_flutter_app](images/09.png)
